@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with **Cloud Deployment**
 
-- 👨‍💻 All of my projects are available at [https://frolicking-mandazi-278229.netlify.app/](https://frolicking-mandazi-278229.netlify.app/)
-
 - 💬 Ask me about **Competative Programming**
 
 - 📫 How to reach me **rahul015january@gmail.com**
