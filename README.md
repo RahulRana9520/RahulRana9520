@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulrana9520" alt="rahulrana9520" /></a> </p>
 
-- 🔭 I’m currently working on **Warehouse management System**
+- 🔭 I’m currently working on **GenAi chatbot**
 
-- 🌱 I’m currently learning **React , node.js , and java**
+- 🌱 I’m currently learning **React , node.js , and data structuer and algorithm**
 
 - 👯 I’m looking to collaborate on **Cloud Based Project**
 
