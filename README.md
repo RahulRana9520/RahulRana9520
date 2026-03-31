@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Rana</h1>
 
 <h3 align="center">
-Backend Developer | Open Source Contributor | BTech CSIT 🚀
+Backend Developer | Open Source Contributor | BTech CSE 🚀
 </h3>
 
 <p align="center">
@@ -56,10 +56,6 @@ Backend Developer | Open Source Contributor | BTech CSIT 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulrana9520&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrana9520&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -71,11 +67,9 @@ Backend Developer | Open Source Contributor | BTech CSIT 🚀
 ✔️ Worked on backend features and APIs  
 ✔️ Improved performance and debugging  
 
-🔗 Add your PR links here:
-- https://github.com/your-pr-1  
-- https://github.com/your-pr-2  
-- https://github.com/your-pr-3  
-
+🔗 PR links here where i contribute:
+- [https://github.com/your-pr-1](https://github.com/Trying-Two-Code/Tryingtocode.com/pull/15)   
+https://github.com/bhavyakashmira/AIcruiter/pull/21
 ---
 
 ## 📌 Featured Projects
