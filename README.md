@@ -69,7 +69,7 @@ Backend Developer | Open Source Contributor | BTech CSE 🚀
 
 🔗 PR links here where i contribute:
 - [https://github.com/your-pr-1](https://github.com/Trying-Two-Code/Tryingtocode.com/pull/15)   
-https://github.com/bhavyakashmira/AIcruiter/pull/21
+- [https://github.com/bhavyakashmira/AIcruiter/pull/21]
 ---
 
 ## 📌 Featured Projects
